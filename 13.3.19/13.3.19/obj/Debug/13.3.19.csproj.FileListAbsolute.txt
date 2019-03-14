@@ -1,0 +1,7 @@
+C:\Users\Liron\source\repos\13.3.19\13.3.19\bin\Debug\13.3.19.exe.config
+C:\Users\Liron\source\repos\13.3.19\13.3.19\bin\Debug\13.3.19.exe
+C:\Users\Liron\source\repos\13.3.19\13.3.19\bin\Debug\13.3.19.pdb
+C:\Users\Liron\source\repos\13.3.19\13.3.19\obj\Debug\13.3.19.csprojAssemblyReference.cache
+C:\Users\Liron\source\repos\13.3.19\13.3.19\obj\Debug\13.3.19.csproj.CoreCompileInputs.cache
+C:\Users\Liron\source\repos\13.3.19\13.3.19\obj\Debug\13.3.19.exe
+C:\Users\Liron\source\repos\13.3.19\13.3.19\obj\Debug\13.3.19.pdb
